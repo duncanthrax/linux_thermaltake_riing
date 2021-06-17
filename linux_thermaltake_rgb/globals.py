@@ -35,7 +35,7 @@ class RGB:
         PULSE = 0x10
         WAVE = 0x14
         BY_LED = 0x18
-        FULL = 0x19
+        FULL = 0x25
 
     class Speed:
         SLOW = 0x03
