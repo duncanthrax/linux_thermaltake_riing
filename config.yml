@@ -1,0 +1,16 @@
+controllers:
+  - unit: 1
+    type: riingtrio
+    devices:
+      1: Riing Trio
+      2: Riing Trio
+
+fan_manager:
+  model: locked_speed
+  speed: 30
+
+lighting_manager:
+  model: full
+  r: 200
+  g: 0
+  b: 255
